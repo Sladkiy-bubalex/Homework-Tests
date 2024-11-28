@@ -1,0 +1,4 @@
+auto_test_ya_disk/.env
+__pycache__
+.pytest_cache
+venv
